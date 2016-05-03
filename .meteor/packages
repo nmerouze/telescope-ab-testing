@@ -32,6 +32,9 @@ accounts-password
 accounts-twitter
 # accounts-facebook
 
+abtests
+
 ############ Debug Packages ############
 
 nova:debug
+msavin:mongol
